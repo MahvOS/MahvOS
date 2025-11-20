@@ -1,5 +1,6 @@
-## Hi there 👋
-I’m currently learning x64 Assembly
+## Hi folks!
+I’m currently learning x64 Assembly, no shits for now
+try to reach me via discord Zipped#9899 if you want to
 
 <!--
 **MahvOS/MahvOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
