@@ -1,5 +1,5 @@
 ## Hi folks!
-I’m currently learning x64 Assembly, no shits for now
+I’m currently learning x64 Assembly, no shits for now \
 try to reach me via discord Zipped#9899 if you want to
 
 <!--
